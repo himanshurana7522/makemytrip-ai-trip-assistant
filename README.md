@@ -8,6 +8,12 @@ An AI-powered travel planning product concept focused on personalised itinerarie
 
 ---
 
+## Project Documentation
+
+- [Read the Full Product Case Study — Google Docs](https://docs.google.com/document/d/10wBU4fnBjpFu6ONAECIEa7WcDkCtbm5vOI2vWTv-dR0/edit?usp=sharing)
+- [View Original Product Management Assignment (PDF)](09-evidence/MakeMyTrip-Product-Assignment.pdf)
+- [View Supporting Evidence](09-evidence/)
+
 ## 1. Project Overview
 
 Travel planning often involves information scattered across multiple platforms. Travellers need to compare destinations, activities, budgets and recommendations before creating a practical itinerary.
